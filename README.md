@@ -1,4 +1,4 @@
-# Sustainability-Enginnering-Course-Project
+# Sustainability-Enginnering-Course-UofC-Project
 
 **Title of the Project**
 
